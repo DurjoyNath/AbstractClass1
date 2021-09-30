@@ -1,0 +1,10 @@
+# AbstractClass1
+vehicle
+
+Rickshwa
+Car
+Bus
+Cycle
+Bike
+Train
+CnG
